@@ -1,6 +1,6 @@
-# Project Title
+# One-Day Trip Route Planning
 
-Final project for the Building AI course: One-Day Trip Route Planning
+Final project for the Building AI course
 
 ## Summary
 
